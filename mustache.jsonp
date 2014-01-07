@@ -1,4 +1,4 @@
-{
+callback( return {
     "header": "Test 1",
     "items": [
         {
@@ -18,4 +18,4 @@
         }
     ],
     "empty": false
-}
+});
