@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Movies>
+<Movie id="1">
+  <uri>http://p.vod.vidtur.netdna-cdn.com/vod/vod.vidtur/pc/London-NEW-LANDING-EN-fixed-vo.mp4</uri>
+  <Mustach id="1" templateName="tpl-leftArrowLink" type="EndEvent"  location="Text1" targetMovieID="2" text="move2"></Mustach>
+  <Mustach id="2" templateName="tpl-rightArrowLink" type="EndEvent" location="Text2" targetMovieID="3" text="move3"></Mustach>
+  <Mustach id="3" templateName="tpl-LondonPassBanner" type="TimeEvent" start="3" end="15" location="Banner" targetURL="http://www.viator.com/eap/vidtur/go/11319/tours/3138LONDON" text="Tower of London / Westminster Abbey / London Zoo / Saint Paul's Cathedral / Kew Gardens / Thames River Cruise / Arsenal Stadium Tour / Windsor Castle / Chelsea Stadium Tour / HMS Belfast / London Bridge Experience / Kensington Palace / Queen's Gallery at Buckingham Palace / Wimbledon Experience Tour"></Mustach>
+  <Mustach id="4" templateName="temp6Block" type="TimeEvent" start="30" end="45" location="Top_Left" link1=" http://www.viator.com/eap/vidtur/go/11319/tours/3517LONWEW" link2="http://www.viator.com/eap/vidtur/go/11319/tours/3517LONPHA" link3="http://www.viator.com/eap/vidtur/go/11319/tours/3517LONLIO" link4=" http://www.viator.com/eap/vidtur/go/11319/tours/3517LONLES" link5=" http://www.viator.com/eap/vidtur/go/11319/tours/3517LONWICK" link6=" http://www.viator.com/eap/vidtur/go/11319/tours/3517LONBIL" link7="http://www.viator.com/eap/vidtur/go/11319/d737-g11"></Mustach>
+  <Mustach id="5" templateName="temp3Block" type="TimeEvent" start="50" end="115" location="Banner" link1="http://www.viator.com/eap/vidtur/go/11319/tours/3858EE004" link2="http://www.viator.com/eap/vidtur/go/11319/tours/3858EE001" link3="http://www.viator.com/eap/vidtur/go/11319/tours/2452L02 tours/2452L02" link4="http://www.viator.com/eap/vidtur/go/11319/d737-ttd" ></Mustach>
+</Movie>
+</Movies>
+
+
+
